@@ -6,8 +6,8 @@
 
 - 🌱 I’m currently learning React JS
 - 👯 Developer Groenbeek RP
-- 💬 Ask me about **MongoDB** **Express** **React JS** **Node JS**
-- 😄 Pronouns: Pronouns: Him
+- 💬 Ask me about **LUA** **MariaDB** **JS** **REACT JS**
+- 😄 Pronouns: Pronouns: Mayonaise
 - ⚡ Fun fact: I spend almost 5-6 hours Learning everyday
 
 
