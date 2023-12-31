@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning React JS
+- 🌱 I’m currently learning Vite and Vue
 - 👯 Developer Groenbeek RP
 - 💬 Ask me about **LUA**, **MariaDB**, **JS**, **REACT JS**
 - ⚡ Fun fact: I spend almost 5-6 hours Learning everyday
