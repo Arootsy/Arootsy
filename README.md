@@ -7,10 +7,9 @@
 - 🌱 I’m currently learning Vite and Vue
 - 👯 Developer Groenbeek RP
 - 💬 Ask me about **LUA**, **MariaDB**, **JS**, **REACT JS**, **PHP**
-- ⚡ Fun fact: I spend almost 5-6 hours Learning everyday
 
 
-<h3 align="left">Talen en Tools:</h3>
+<h3 align="left">Oh, I'm just bursting with pride:</h3>
 <p align="left"> 
   <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="html5" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="css3" width="40" height="40"/> </a>
