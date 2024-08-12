@@ -4,8 +4,6 @@
 
 
 
-- 🌱 I’m currently learning Vite and Vue
-- 👯 Developer Groenbeek RP
 - 💬 Ask me about **LUA**, **MariaDB**, **JS**, **REACT JS**, **PHP**
 
 
