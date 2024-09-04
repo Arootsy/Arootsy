@@ -3,7 +3,7 @@
 
 
 
-**LUA**, **MariaDB**, **JS**, **REACT JS**, **PHP**
+**LUA**, **MySQL (MariaDB)**, **JS**, **REACT JS**, **PHP**, **DOCKER**
 
 <b>My GitHub Stats</b>
 
