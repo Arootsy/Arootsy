@@ -3,7 +3,7 @@
 
 
 
-**LUA**, **PYTHON**, **MySQL (MariaDB)**, **JS**, **REACT JS**, **DOCKER**
+**LUA**, **PYTHON**, **MySQL (MariaDB)**, **JavaScript**, **TypeScript**, **REACT**, **DOCKER**
 
 HBO Student Software Developer
 
