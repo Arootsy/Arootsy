@@ -1,4 +1,5 @@
-# Hi guys 👋  I'm Arootsy
+![](https://komarev.com/ghpvc/?username=Arootsy)
+# Hi 👋  I'm Arootsy
 
 
 
