@@ -9,13 +9,15 @@
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
-  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Arootsy&show_icons=true&theme=github_dark)
-</p>
-<p align="center">
-  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Arootsy&theme=github_dark)
-</p>
-<p align="center">
-  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Arootsy&layout=compact&theme=github_dark)
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Arootsy&show_icons=true&theme=github_dark" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Arootsy&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Arootsy&layout=compact&theme=github_dark" />
+</p>
