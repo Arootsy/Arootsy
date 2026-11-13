@@ -27,10 +27,10 @@
 
 <br>
 
-<h2 align="center">GitHub Activity</h2>
+<h2 align="center">GitHub Contributions</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arootsy&bg_color=0D1117&color=1BB5D7&line=1BB5D7&point=FFFFFF&area=true&area_color=1BB5D7&hide_border=true&radius=8" width="100%" alt="GitHub Activity Graph" />
+  <img src="https://ghchart.rshah.org/1bb5d7/Arootsy" alt="GitHub Contributions" width="100%" />
 </div>
 
 <br>
