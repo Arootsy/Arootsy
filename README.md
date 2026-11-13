@@ -1,6 +1,3 @@
-![GitHub views](https://komarev.com/ghpvc/?username=Arootsy&color=1bb5d7)
-
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0D1117,100:1BB5D7&section=header" width="100%" alt="Header" />
 
