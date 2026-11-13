@@ -1,3 +1,4 @@
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0D1117,100:1BB5D7&section=header" width="100%" alt="Header" />
 
@@ -13,13 +14,18 @@
 
 <div align="center">
   <h3>Languages</h3>
-  <img src="https://skillicons.dev/icons?i=ts,js,rust,java,python,php,cpp,swift,html,css&perline=10" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=ts,js,rust,java,python,lua,php,cpp,swift,html,css&perline=11" alt="Languages" />
 
   <h3>Frameworks & Libraries</h3>
-  <img src="https://skillicons.dev/icons?i=svelte,react,nextjs,tailwind,laravel,django,nodejs&perline=7" alt="Frameworks" />
+  <img src="https://skillicons.dev/icons?i=svelte,react,nextjs,tailwind,laravel,django,nodejs,tauri,prisma&perline=9" alt="Frameworks" />
 
   <h3>Databases & Tools</h3>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,debian,anaconda,idea,phpstorm&perline=7" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,docker,debian,anaconda,idea,git,github,cloudflare,postman&perline=11" alt="Databases and Tools" />
+
+  <h3>AI & Development</h3>
+  <img src="https://cdn.simpleicons.org/claude/D97757" height="45" alt="Claude" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/jetbrains/000000" height="45" alt="JetBrains" />
 </div>
 
 <br>
